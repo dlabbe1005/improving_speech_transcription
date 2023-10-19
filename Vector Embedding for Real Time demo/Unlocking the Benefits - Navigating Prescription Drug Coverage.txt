@@ -1,0 +1,24 @@
+Prescription Drug
+COVERED SERVICES: Prescription Drugs
+The Northwind Standard plan provides coverage for prescription drugs. This includes both 
+brand name and generic medications, as well as over-the-counter drugs when prescribed by 
+a doctor. Northwind Standard also provides coverage for immunizations and vaccinations.
+In order to receive coverage for prescription drugs, members must use one of Northwind 
+Health’s preferred pharmacies. Preferred pharmacies offer the lowest copayments, and they 
+also provide additional cost savings benefits. To find a preferred pharmacy in your area, you 
+can use the Find a Pharmacy tool on the Northwind Health website.
+When filling a prescription, you can choose to receive your medications through the mail. 
+This option is convenient and can help you save money. You can also request prescription 
+refills online or by phone, and you can even use a mobile app to manage your prescriptions.
+When using a preferred pharmacy, you may be able to take advantage of discounts on 
+generic medications. This can help to reduce your out-of-pocket costs. In addition, your 
+pharmacy may offer additional savings on brand-name medications, such as 90-day 
+supplies or three-month supplies.
+It’s important to note that the Northwind Standard plan does not cover certain medications, 
+including drugs used for weight loss or fertility treatments, compounded medications, or 
+drugs that are not FDA-approved. You should always check with your doctor or pharmacist 
+to make sure that your prescription is covered under the Northwind Standard plan. 
+You should also be aware that Northwind Standard does not cover over-the-counter 
+medications, unless they are prescribed by a doctor. If you need to purchase an over-thecounter medication, you will have to pay for it out of pocket. 
+Finally, always look for generic medications whenever possible. Generic medications are 
+typically less expensive than brand-name medications, and they are just as effective. 

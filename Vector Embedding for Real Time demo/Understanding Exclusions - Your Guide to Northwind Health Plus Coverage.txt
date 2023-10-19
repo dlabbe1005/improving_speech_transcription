@@ -1,0 +1,11 @@
+EXCLUSIONS
+Although Northwind Health Plus provides comprehensive coverage for medical, vision, and 
+dental services, there are certain services and treatments that are excluded from the plan. It 
+is important to understand these exclusions so that you can plan your care accordingly. 
+Services Not Covered: 
+Northwind Health Plus does not cover services that are not medically necessary, such as 
+cosmetic surgery or elective procedures. Additionally, services or treatments that are 
+experimental or investigational are not covered under this plan. 
+Prescriptions Not Covered: The plan does not cover prescriptions that are not medically 
+necessary, certain over-the-counter medications, or prescription medications that are used 
+to enhance performance in athletics.
