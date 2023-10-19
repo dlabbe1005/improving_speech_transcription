@@ -1,0 +1,15 @@
+Welcome to Contoso Electronics! We are excited to offer our employees two comprehensive health insurance plans through Northwind Health. 
+
+Northwind Health Plus 
+Northwind Health Plus is a comprehensive plan that provides comprehensive coverage for medical, 
+vision, and dental services. This plan also offers prescription drug coverage, mental health and substance 
+abuse coverage, and coverage for preventive care services. With Northwind Health Plus, you can choose 
+from a variety of in-network providers, including primary care physicians, specialists, hospitals, and 
+pharmacies. This plan also offers coverage for emergency services, both in-network and out-of-network.
+
+Northwind Standard 
+Northwind Standard is a basic plan that provides coverage for medical, vision, and dental services. This 
+plan also offers coverage for preventive care services, as well as prescription drug coverage. With 
+Northwind Standard, you can choose from a variety of in-network providers, including primary care 
+physicians, specialists, hospitals, and pharmacies. This plan does not offer coverage for emergency 
+services, mental health and substance abuse coverage, or out-of-network services.
