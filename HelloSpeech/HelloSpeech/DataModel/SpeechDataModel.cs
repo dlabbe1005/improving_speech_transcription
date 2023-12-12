@@ -342,8 +342,8 @@ namespace HelloSpeech.DataModel
             ConversationSentiments.Clear();
 
 
-            //var speechConfig = SpeechConfig.FromSubscription(SpeechServiceKey, SpeechServiceRegion);
-            var speechConfig = SpeechConfig.FromEndpoint(new Uri(SpeechServiceRegion), SpeechServiceKey);
+            var speechConfig = SpeechConfig.FromSubscription(SpeechServiceKey, SpeechServiceRegion);
+
             speechConfig.SpeechRecognitionLanguage = "en-US";
 
             cgtClient = new ChatGPTClient(OpenAIServiceEndpoint, OpenAIServiceKey, OpenAIDeploymentName);

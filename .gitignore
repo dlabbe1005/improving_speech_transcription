@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HelloSpeech/HelloSpeech/obj
+/HelloSpeech/HelloSpeech/bin/Debug/net7.0-windows
+/HelloSpeech/.vs/HelloSpeech

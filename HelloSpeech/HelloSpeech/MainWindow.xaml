@@ -29,19 +29,19 @@
                                         <RowDefinition />
                                         <RowDefinition />
                                     </Grid.RowDefinitions>
-                                    <Label Background="FloralWhite"  Grid.Row="0" Grid.Column="0">Speech Service Endpoint</Label>
+                                    <Label Background="FloralWhite"  Grid.Row="0" Grid.Column="0">Speech Service Region</Label>
                                     <Grid Grid.Row="0" Grid.Column="1">
                                         <!--Placeholder Text Implementation-->
                                         <TextBox  Text="{Binding SpeechServiceRegion}" x:Name="tbSpeechRegionBox"  Width="300" >
                                             <TextBox.ToolTip>
                                                 <TextBlock>
-                                                  Azure Language Service Endpoint URL.
+                                                  Azure Region of the Speech service.
                                                   <LineBreak /> 
-                                                  Example: <Bold>https://westeurope.api.cognitive.microsoft.com/sts/v1.0/issuetoken</Bold>
+                                                  Example: <Bold>westeurope</Bold>
                                                 </TextBlock>
                                             </TextBox.ToolTip>
                                         </TextBox>
-                                        <TextBlock IsHitTestVisible="False" Text="Azure Language Service Endpoint URL." VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="DarkGray">
+                                        <TextBlock IsHitTestVisible="False" Text="Azure region for Speech Service, e.g: westeurope" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,0,0,0" Foreground="DarkGray">
                                             <TextBlock.Style>
                                                 <Style TargetType="{x:Type TextBlock}">
                                                     <Setter Property="Visibility" Value="Collapsed"/>
